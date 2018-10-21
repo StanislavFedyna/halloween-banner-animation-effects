@@ -192,13 +192,13 @@ body
 
 .witch-2
 {
-    position: absolute;
-    bottom: 500px;
-    left: -100px;
-    width: 250px;
-    height: 200px;
-    -webkit-animation: move-witch-2 5s linear infinite;
-            animation: move-witch-1 5s linear infinite;
+  position: absolute;
+  bottom: 500px;
+  left: -100px;
+  width: 250px;
+  height: 200px;
+  animation: move-witch-2 5s linear infinite;
+  -webkit-animation: move-witch-2 5s linear infinite;
 }
 
 @-webkit-keyframes move-witch-2
